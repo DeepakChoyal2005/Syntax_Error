@@ -1,2 +1,2 @@
 # Syntax_Error
-Author Deepak Choyal
+Author : Deepak Choyal
